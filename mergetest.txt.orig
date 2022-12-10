@@ -1,8 +1,8 @@
-in master file
+<<<<<<< HEAD
+in master file  Bye
+=======
+in master file  Hi 
+>>>>>>> a618045f24487af634242943e25dcb0621453c69
 changed content
 
-<<<<<<< HEAD
 hlello
-=======
-hello
->>>>>>> 9c8b52cac0965cad014f810e27c558bc1e1ffe0f
