@@ -1,0 +1,8 @@
+in master file
+changed content
+
+<<<<<<< HEAD
+hlello
+=======
+hello
+>>>>>>> 9c8b52cac0965cad014f810e27c558bc1e1ffe0f
