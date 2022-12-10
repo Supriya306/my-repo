@@ -1,4 +1,4 @@
-in master file
+in master file  Hi 
 changed content
 
 hello
